@@ -31,7 +31,7 @@
 ||기간|
 |:---:|:---:|
 |기획 및 설계|2023.11.19 ~ 2023.12.01|
-|개발|2023.11.20 ~ |
+|개발|2023.11.20 ~ 2023.12.22|
 |서비스 배포|2023.12.21|
 
 <br>
@@ -109,3 +109,7 @@ $ npm start
 ### Multi flow
 
 [멀티 실행구조](https://github.com/Kyxxn/React_Metaverse/assets/129862357/8e81d46d-bbc0-4971-9702-78d3eca5a154)
+
+## 회의록
+[노션 회의록](https://metaversehackaton.notion.site/1ca66c0c3bde490ea17bb5ec8060b38f?pvs=4) 
+
