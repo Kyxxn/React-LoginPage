@@ -10,7 +10,7 @@
   <div>메타 재난 시뮬레이션은 <b>다양한 재난 상황에 대응하는 안전 대피 교육을 제공하는 서비스</b>입니다.</div>
   <div><b>확장형 하이브리드 메타버스 플랫폼</b>으로 웹과 앱에서 실제와 비슷한 환경을 체험할 수 있도록 구현되어 있습니다.</div>
   <div>🏆2023년 메타버스 수도 경북 해커톤 우수상 수상 프로젝트 입니다.🏆</div>
-  <img alt="수상 사진" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/4ba351d4-d28f-4b3c-aa3c-85047586661d">
+  <img width="500" height="350" alt="수상 사진" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/4ba351d4-d28f-4b3c-aa3c-85047586661d">
 </div>
 
 <br>
