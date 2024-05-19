@@ -19,10 +19,10 @@
 ## 🧑‍💻 팀원 소개
 
 
-| 이름 |  박효준  |
-| :------------: | :------------: |
-|  | <img src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/440e93ab-233b-47ef-9637-a4515d13d915" width="150"/> |
-| 깃허브 | [@Kyxxn](https://github.com/Kyxxn) |
+| 이름 |  박효준  |  정석영  |  강민기  |  김시완  |
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+|  | <img src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/440e93ab-233b-47ef-9637-a4515d13d915" width="150"/> | <img src="https://avatars.githubusercontent.com/u/112852343?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/75325326?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/128140195?v=4" width="150"/> |
+| 깃허브 | [@Kyxxn](https://github.com/Kyxxn) | [@g0311](https://github.com/g0311) | [@kang20](https://github.com/kang20) | [@siwan9](https://github.com/siwan9) |
 
 <br>
 
