@@ -74,7 +74,7 @@
 
 <br>
 
-## FLOW
+## ⏳ FLOW
 <img width="758" alt="Flow" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/1e764e7c-0bcd-4a1f-81f2-4854a6648646">
 
 ## 🏃 시작 가이드
