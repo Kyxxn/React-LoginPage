@@ -103,12 +103,7 @@ $ npm start
 <br>
 
 ## FLOW
-### Full flow
-<img width="758" alt="Flow" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/d83d230b-169d-4e28-97d9-991557dd63b8">
-
-### Multi flow
-
-[멀티 실행구조](https://github.com/Kyxxn/React_Metaverse/assets/129862357/8e81d46d-bbc0-4971-9702-78d3eca5a154)
+<img width="758" alt="Flow" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/1e764e7c-0bcd-4a1f-81f2-4854a6648646">
 
 ## 회의록
 [노션 회의록](https://metaversehackaton.notion.site/1ca66c0c3bde490ea17bb5ec8060b38f?pvs=4) 
