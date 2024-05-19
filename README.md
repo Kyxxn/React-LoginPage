@@ -73,6 +73,9 @@
 
 <br>
 
+## FLOW
+<img width="758" alt="Flow" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/1e764e7c-0bcd-4a1f-81f2-4854a6648646">
+
 ## 🏃 시작 가이드
 
 <!-- ### 요구 사항
@@ -102,8 +105,6 @@ $ npm start
 
 <br>
 
-## FLOW
-<img width="758" alt="Flow" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/1e764e7c-0bcd-4a1f-81f2-4854a6648646">
 
 ## 회의록
 [노션 회의록](https://metaversehackaton.notion.site/1ca66c0c3bde490ea17bb5ec8060b38f?pvs=4) 
